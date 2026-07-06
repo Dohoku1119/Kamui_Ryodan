@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height:150px;
+    text-align: center;
+    background-color: green;
+    padding:0;
+    margin: 0;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.main-contents .gaiyou{
+    width:100%;
+    
+}
